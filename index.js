@@ -13,6 +13,6 @@ function divide(a,b) {
 function inc(a) {
   return a + 1
 }
-function makeInt(a) {
-  return parseInt('0x2328', 10)
+function makeInt(n) {
+  return parseInt(0x2328, 10)
 }
