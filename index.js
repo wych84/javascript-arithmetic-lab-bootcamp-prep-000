@@ -13,6 +13,6 @@ function divide(a,b) {
 function inc(a) {
   return a + 1
 }
-function makeInt(a) {
-  
+function makeInt(a.toString) {
+  return 
 }
