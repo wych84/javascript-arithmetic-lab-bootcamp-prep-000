@@ -14,5 +14,5 @@ function inc(a) {
   return a + 1
 }
 function makeInt(a) {
-  return parseInt()
+  return parseInt(0x2328, 10)
 }
