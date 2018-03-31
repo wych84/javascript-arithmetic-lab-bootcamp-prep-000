@@ -13,4 +13,6 @@ function divide(a,b) {
 function inc(a) {
   return a + 1
 }
-function makeInt
+function makeInt(a) {
+  
+}
