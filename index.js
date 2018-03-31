@@ -1,4 +1,6 @@
 function add(){
   
 }
-function sub
+function subract() {
+
+}
